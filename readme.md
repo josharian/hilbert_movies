@@ -12,7 +12,9 @@ Inspired by:
 Setup
 -----
 
-    pip install -r requirements.txt
+* Install `ffmpeg`
+
+* `pip install -r requirements.txt`
 
 Make a pretty picture
 ---------------------
